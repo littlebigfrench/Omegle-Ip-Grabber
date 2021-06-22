@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         Omegle Ip Grabber
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        https://www.omegle.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant        none
-// @require      http://code.jquery.com/jquery-3.4.1.min.js
-// ==/UserScript==
-
 jQuery.noConflict();
 var $ = jQuery;
 
